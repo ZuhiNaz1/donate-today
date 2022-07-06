@@ -22,3 +22,46 @@ body {
     color: white;
     font-weight: 550;
 }
+
+.width {
+    width: 50%;
+    padding: 2%;
+    text-align: center;
+
+}
+
+.plan-area {
+    width: 32%;
+    padding-left: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#food-for-family {
+    border: 3px solid peachpuff;
+}
+
+#shelter-for-family {
+    border: 3px solid palegreen;
+}
+
+#education-for-childen {
+    border: 3px solid lightblue;
+}
+
+.humble {
+    font-style: italic;
+    font-weight: 700;
+    color: maroon;
+    text-align: center;
+}
+
+.do-it {
+    text-align: center;
+    color: black;
+    font-weight: 200;
+}
+
+#last-side {
+    background-color: black;
+}
